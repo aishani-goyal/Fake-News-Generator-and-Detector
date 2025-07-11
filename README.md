@@ -1,6 +1,6 @@
 # 🧠 AI-Powered Fake News Generator & Detector
 
-This project is an **educational and awareness-focused Generative AI application** that explores the dual capabilities of artificial intelligence in both **generating** and **detecting** fake news. It is designed to promote critical thinking, media literacy, and understanding of how AI can be used to both create and combat misinformation.
+The project builds an AI system that generates fake news headlines using GPT-2 and detects them using a text classification model like BERT. It demonstrates both the power and ethical responsibility of generative AI in combating misinformation.
 
 ---
 
