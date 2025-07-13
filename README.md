@@ -36,7 +36,7 @@ The project builds an AI system that generates fake news headlines using GPT-2 a
 ## 🔗 Demo
 
 Try the app live here:  
-👉 [https://huggingface.co/spaces/Aishani03/FakeNews-Detector_Generator](https://huggingface.co/spaces/Aishani03/FakeNews-Detector_Generator)
+👉 [https://huggingface.co/spaces/Aishani03/FakeNews-Detector_Generator](https://huggingface.co/spaces/Aishani03/Fake_News_Generator_Detector)
 
 ---
 
